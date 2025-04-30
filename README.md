@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Yamin Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack and NextJs developer from Bangladesh</h3>
 <img align="right" alt="web developing" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminhossain&label=Profile%20views&color=0e75b6&style=flat" alt="yaminhossain" /> </p>
 
