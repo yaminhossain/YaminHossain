@@ -1,5 +1,5 @@
 <!--- banner --->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=160&text=Yamin%20Hossain&fontSize=55&fontColor=00d4ff&fontAlignY=55&desc=Full-Stack%20Developer%20%E2%80%94%20MERN%20%7C%20Next.js%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=78&descSize=16&descColor=aaaaaa"/>
+<img width="100%" src="https://res.cloudinary.com/daeufkvvp/image/upload/v1795089545/Yamin_Hossain__Code_Create_Innovate_jeuhbo.png"/>
 
 <!--- title --->
 <div>
